@@ -13,6 +13,5 @@ class RoculusItem(scrapy.Item):
 	upvotes = scrapy.Field()
 	comments = scrapy.Field()
 	link = scrapy.Field()
-    # define the fields for your item here like:
     # name = scrapy.Field()
 	pass
